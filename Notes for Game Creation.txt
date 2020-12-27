@@ -1,0 +1,103 @@
+Variables are as follows:
+
+
+player, playerImg;
+bullet1Group,bullet2Group;
+backgroundImg;
+edges;
+enemy1,enemy2,enemy3,enemy4,enemy5,enemy6,enemy7,enemy8,enemy9,enemy10,enemyImg,enemy_array=[];
+playerBullet1Img,playerBullet2Img;
+bossBulletImg,bossArray;
+score = 0; 
+
+
+What they do:
+
+
+player = main character sprite
+playerImg = player Image
+
+bullet1Group = group for player bullet 1 
+bullet2Group = group for player bullet 2 
+
+bossArray = array for the bosses
+
+backgroundImg = background Image
+
+edges = creates Edge sprites
+
+enemy1 = enemy1 sprite
+enemy2 = enemy2 sprite
+enemy3 = enemy3 sprite
+enemy4 = enemy4 sprite
+enemy5 = enemy5 sprite
+enemy6 = enemy6 sprite
+enemy7 = enemy7 sprite
+enemy8 = enemy8 sprite
+enemy9 = enemy9 sprite
+enemy10 = enemy10 sprite
+enemy11 = enemy11 sprite
+enemyImg = enemy Image
+enemyArray = array for the enemies
+
+playerBullet1Img = image for the bullet type 1 for the player
+playerBullet2Img = image for the bullet type 2 for the player
+
+bossBulletImg = image for the bosses' bullet
+
+score = stores the player's score, initialized with 0
+
+
+Images and their names:
+
+
+playerImg = spacecraft.png
+
+backgroundImg = background.jpg
+
+playerBullet1Img = Bullet1.png
+playerBullet2Img = Bullet2.png
+
+enemyImg = Enemy.png
+bossImg = Boss.png
+bossBulletImg = BossBullet.png
+
+
+Coordinates of different sprites:
+
+
+player.x = 450
+player.y = 1150
+
+enemy1.x = 550
+enemy1.y = 450
+
+enemy2.x = 600
+enemy2.y = 450
+
+enemy3.x = 650
+enemy3.y = 450
+
+enemy4.x = 700
+enemy4.y = 450
+
+enemy5.x = 750
+enemy5.y = 450
+
+enemy6.x = 800
+enemy6.y = 450
+
+enemy7.x = 850
+enemy7.y = 450
+
+enemy.x = 900
+enemy8.y = 450
+
+enemy9.x = 950
+enemy9.y = 450
+
+enemy10.x = 1000
+enemy10.y = 450
+
+enemy11.x = 1050
+enemy11.y = 450
